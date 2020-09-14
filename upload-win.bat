@@ -7,4 +7,5 @@ echo Your commit will be saved as %mydate%:%mytime%
 git commit -m "%mydate%:%mytime%"
 echo Uploading data to the repository...
 git push -u origin master
-echo Operation completed...
+echo Operation completed.
+pause
