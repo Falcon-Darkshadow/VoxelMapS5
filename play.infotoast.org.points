@@ -2,3 +2,6 @@ subworlds:
 oldNorthWorlds:
 seeds:
 name:triple-entente-fort,x:-340,z:360,y:73,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
+name:stronghold,x:-1415,z:129,y:43,enabled:true,red:0.39509326,green:0.68296254,blue:0.34405172,suffix:,world:,dimensions:overworld#
+name:stupidninja,x:730,z:161,y:63,enabled:true,red:0.34954524,green:0.54743195,blue:0.47520268,suffix:,world:,dimensions:overworld#
+name:sheaps,x:-339,z:-442,y:70,enabled:true,red:0.9075887,green:0.9383898,blue:0.5734148,suffix:,world:,dimensions:overworld#
