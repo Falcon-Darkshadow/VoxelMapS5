@@ -7,3 +7,4 @@ name:stupidninja,x:730,z:161,y:63,enabled:true,red:0.34954524,green:0.54743195,b
 name:sheaps,x:-339,z:-442,y:70,enabled:true,red:0.9075887,green:0.9383898,blue:0.5734148,suffix:,world:,dimensions:overworld#
 name:desert,x:-487,z:948,y:63,enabled:true,red:0.13016462,green:0.5225325,blue:0.18751174,suffix:,world:,dimensions:overworld#
 name:stronghold-portal,x:-1400,z:144,y:68,enabled:true,red:0.67269707,green:0.14575154,blue:0.8413997,suffix:,world:,dimensions:the_nether#
+name:wither,x:-476,z:692,y:70,enabled:true,red:0.6504601,green:0.84065807,blue:0.7686479,suffix:,world:,dimensions:overworld#
