@@ -7,3 +7,7 @@ name:stupidninja,x:730,z:161,y:63,enabled:true,red:0.34954524,green:0.54743195,b
 name:sheaps,x:-339,z:-442,y:70,enabled:true,red:0.9075887,green:0.9383898,blue:0.5734148,suffix:,world:,dimensions:overworld#
 name:desert,x:-487,z:948,y:63,enabled:true,red:0.13016462,green:0.5225325,blue:0.18751174,suffix:,world:,dimensions:overworld#
 name:stronghold-portal,x:-1400,z:144,y:68,enabled:true,red:0.67269707,green:0.14575154,blue:0.8413997,suffix:,world:,dimensions:the_nether#
+name:Alpha,x:-415,z:130,y:106,enabled:true,red:0.26169944,green:0.29548377,blue:0.24227393,suffix:house,world:,dimensions:overworld#
+name:Alpha Respawn Anchor,x:-408,z:112,y:82,enabled:true,red:0.40392157,green:0.05882353,blue:0.4509804,suffix:,world:,dimensions:the_nether#
+name:nether fort,x:-22120,z:-4200,y:77,enabled:true,red:0.5496997,green:0.049550653,blue:0.21069163,suffix:,world:,dimensions:the_nether#
+name:nether fort,x:-20664,z:-2576,y:53,enabled:true,red:0.7607843,green:0.10980392,blue:0.3019608,suffix:,world:,dimensions:the_nether#
