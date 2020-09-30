@@ -2,7 +2,6 @@ subworlds:
 oldNorthWorlds:
 seeds:
 name:triple-entente-fort,x:-340,z:360,y:73,enabled:true,red:0.0,green:1.0,blue:0.0,suffix:,world:,dimensions:overworld#
-name:stronghold,x:-1415,z:129,y:43,enabled:true,red:0.39509326,green:0.68296254,blue:0.34405172,suffix:,world:,dimensions:overworld#
 name:stupidninja,x:730,z:161,y:63,enabled:true,red:0.34954524,green:0.54743195,blue:0.47520268,suffix:,world:,dimensions:overworld#
 name:sheaps,x:-339,z:-442,y:70,enabled:true,red:0.9075887,green:0.9383898,blue:0.5734148,suffix:,world:,dimensions:overworld#
 name:desert,x:-487,z:948,y:63,enabled:true,red:0.13016462,green:0.5225325,blue:0.18751174,suffix:,world:,dimensions:overworld#
@@ -13,3 +12,4 @@ name:nether fort,x:-22120,z:-4200,y:77,enabled:true,red:0.5496997,green:0.049550
 name:nether fort,x:-20664,z:-2576,y:53,enabled:true,red:0.7607843,green:0.10980392,blue:0.3019608,suffix:,world:,dimensions:the_nether#
 name:the thing,x:2162,z:1120,y:82,enabled:true,red:0.0,green:0.5803922,blue:0.54901963,suffix:,world:,dimensions:overworld#
 name:Project Premium,x:-442,z:221,y:74,enabled:true,red:0.023529412,green:0.8666667,blue:0.49411765,suffix:axe,world:,dimensions:overworld#
+name:Monument to Vanity,x:-1407,z:112,y:43,enabled:true,red:0.9882353,green:0.74509805,blue:0.047058824,suffix:temple,world:,dimensions:overworld#
