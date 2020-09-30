@@ -11,3 +11,5 @@ name:Alpha,x:-415,z:130,y:106,enabled:true,red:0.26169944,green:0.29548377,blue:
 name:Alpha Respawn Anchor,x:-408,z:112,y:82,enabled:true,red:0.40392157,green:0.05882353,blue:0.4509804,suffix:,world:,dimensions:the_nether#
 name:nether fort,x:-22120,z:-4200,y:77,enabled:true,red:0.5496997,green:0.049550653,blue:0.21069163,suffix:,world:,dimensions:the_nether#
 name:nether fort,x:-20664,z:-2576,y:53,enabled:true,red:0.7607843,green:0.10980392,blue:0.3019608,suffix:,world:,dimensions:the_nether#
+name:the thing,x:2162,z:1120,y:82,enabled:true,red:0.0,green:0.5803922,blue:0.54901963,suffix:,world:,dimensions:overworld#
+name:Project Premium,x:-442,z:221,y:74,enabled:true,red:0.023529412,green:0.8666667,blue:0.49411765,suffix:axe,world:,dimensions:overworld#
