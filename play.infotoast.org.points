@@ -13,3 +13,4 @@ name:nether fort,x:-20664,z:-2576,y:53,enabled:true,red:0.7607843,green:0.109803
 name:the thing,x:2162,z:1120,y:82,enabled:true,red:0.0,green:0.5803922,blue:0.54901963,suffix:,world:,dimensions:overworld#
 name:Project Premium,x:-442,z:221,y:74,enabled:true,red:0.023529412,green:0.8666667,blue:0.49411765,suffix:axe,world:,dimensions:overworld#
 name:Monument to Vanity,x:-1407,z:112,y:43,enabled:true,red:0.9882353,green:0.74509805,blue:0.047058824,suffix:temple,world:,dimensions:overworld#
+name:ice,x:-851,z:842,y:65,enabled:true,red:0.34330398,green:0.62158024,blue:0.8249627,suffix:,world:,dimensions:overworld#
